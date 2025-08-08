@@ -4,3 +4,4 @@ fpdf
 Pillow
 groq
 python-dotenv
+reportlab
