@@ -1,0 +1,6 @@
+streamlit
+requests
+fpdf
+Pillow
+groq
+python-dotenv
